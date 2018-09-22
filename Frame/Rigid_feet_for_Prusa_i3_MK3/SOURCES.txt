@@ -1,0 +1,4 @@
+Sources for Rigid feet for Prusa i3 MK3
+
+Prusa i3 MK3 Sorbothane or Felt Feet (https://www.thingiverse.com/thing:2802540)
+Prusa MK3 hard feet (https://www.thingiverse.com/thing:2805753)
